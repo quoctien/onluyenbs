@@ -1,0 +1,6 @@
+{
+  "name": "QuizMaster Pro - Hệ thống Quản lý và Thi Trắc nghiệm Thông minh",
+  "description": "Ứng dụng thi trắc nghiệm trực tuyến hỗ trợ 4 lựa chọn, đúng/sai, điền khuyết, import bằng AI, quản lý học sinh & giáo viên, random câu hỏi và thống kê điểm số lớp học.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
